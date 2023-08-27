@@ -18,6 +18,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 **Chatbots**
  * [Robot-GPT](https://github.com/nonejou072/robot-gpt) - A simulation framework based on ROS2 and ChatGPT for robot interaction tasks in the era of large models
+ * [ChatNBX](https://chat.nbox.ai/) - Unlock limitless potential for your projects with nimblebox.ai! Generate API keys for LLaMA 2, Nous Hermes, Vicuna, Code LLaMA and more, and elevate your chatbots, virtual assistants, content creation, data analysis, and beyond 🚀
 
 
 **Browser-extensions**
